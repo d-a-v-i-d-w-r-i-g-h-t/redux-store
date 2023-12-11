@@ -1,4 +1,4 @@
-import { reducer } from '../utils/reducers';
+import reducer from '../utils/reducers';
 import {
   UPDATE_PRODUCTS,
   ADD_TO_CART,
